@@ -13,7 +13,16 @@ Task 3 - Shopping List App
          ~Event Handling
   ## Screenshot 
          ![Shopping List](shopping-list-app/shopping-list-app.png)
-Technologies Used: -HTML
+Task 4 - Student Marks Calculator
+        ~Enter marks of subjects
+        ~Calculate Total Marks
+        ~Calculate Percentage
+        ~Display Result
+        ~Grade Calculation
+ ## Screenshot
+  ![Student Marks Calculator](student-marks-calculator/student-marks-calculator.png)
+  
+  Technologies Used: -HTML
                    -CSS
                    -JavaScript
 Author: Khushi 
