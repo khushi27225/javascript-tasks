@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #810B38;
+}
+.container{
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-top: 120px;
+    padding: 40px;
+    width: 700px;
+    background-color: #F1E2D1;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+label{
+    font-size: 35px;
+}
+input{
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+button{
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: #810B38;
+    color: #fff;
+    font-size: 20px;
+}
+button:hover{
+    background-color: #B34A44;
+    transform: scale(1.05);
+}
