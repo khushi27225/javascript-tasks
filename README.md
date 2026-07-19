@@ -1,3 +1,4 @@
+
 JavaScript Tasks : This repository contains my javaScript practice tasks.
 ## TASKS ##
 Task 1 - JavaScript Basics 
@@ -21,6 +22,14 @@ Task 4 - Student Marks Calculator
         -Grade Calculation
  ## Screenshot
   ![Student Marks Calculator](student-marks-calculator/student-marks-calculator.png)
+
+Task 3 -Student Registration Form
+       -User Registration Form
+       -Delete , edit and update button
+       -Form validation
+       -Responsive design
+ ## Screenshot
+ ![Student Registration Form](Student-Registration-form/student-registration-form.png)
   
   Technologies Used: -HTML
                    -CSS
