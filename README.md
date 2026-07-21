@@ -30,8 +30,16 @@ Task 5 -Student Registration Form
        -Responsive design
  ## Screenshot
  ![Student Registration Form](Student-Registration-form/student-registration-form.png)
-  
-  Technologies Used: -HTML
+
+ Task 6 -Employee Registration System
+        -Employee Registration Form
+        -HTML,CSS & JavaScript
+        -Collects employees details
+        -Responsive Design
+## Screenshot
+![Employee Registration Form](Employee-Registration-system/employee-registration-form.png)
+        
+   Technologies Used: -HTML
                    -CSS
                    -JavaScript
 Author: Khushi 
