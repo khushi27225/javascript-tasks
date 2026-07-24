@@ -45,7 +45,7 @@ Task 7 -Pizza Order System
        -Search Bar 
        -Responsive Design
 ## Screenshot 
-![Pizza Order System](pizza-order-system/pizza-order-system.png)
+![Pizza Order System](pizza-order-system/pizza.png)
    Technologies Used: -HTML
                    -CSS
                    -JavaScript
