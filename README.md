@@ -37,7 +37,7 @@ Task 5 -Student Registration Form
         -Collects employees details
         -Responsive Design
 ## Screenshot
-![Employee Registration Form](Employee-Registration-system/employee-registration-form.png)
+![Employee Registration Form](OneDrive/Desktop/js/Employee-Registration-system/employee-registration-form.png)
         
    Technologies Used: -HTML
                    -CSS
