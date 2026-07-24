@@ -1,4 +1,3 @@
-
 JavaScript Tasks : This repository contains my javaScript practice tasks.
 ## TASKS ##
 Task 1 - JavaScript Basics 
@@ -38,7 +37,15 @@ Task 5 -Student Registration Form
         -Responsive Design
 ## Screenshot
 ![Employee Registration Form](OneDrive/Desktop/js/Employee-Registration-system/employee-registration-form.png)
-        
+Task 7 -Pizza Order System
+       -Pizza Order Form
+       -HTML,CSS & JavaScript 
+       -Add pizza orders
+       -Delete and Edit order
+       -Search Bar 
+       -Responsive Design
+## Screenshot 
+![Pizza Order System](pizza-order-system/pizza-order-system.png)
    Technologies Used: -HTML
                    -CSS
                    -JavaScript
