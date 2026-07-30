@@ -46,6 +46,14 @@ Task 7 -Pizza Order System
        -Responsive Design
 ## Screenshot 
 ![Pizza Order System](pizza-order-system/pizza.png)
+
+Task 8 -Live Search Filter
+       -HTML, CSS, JavaSript
+       -Search items in real time
+       -Used JavaScript `filter()` method
+       -Responsive Design
+## Screenshot
+![Live Search Filter](live-search-filter/live-search-filter.png)
    Technologies Used: -HTML
                    -CSS
                    -JavaScript
