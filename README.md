@@ -48,13 +48,24 @@ Task 7 -Pizza Order System
 ![Pizza Order System](pizza-order-system/pizza.png)
 
 Task 8 -Live Search Filter
-       -HTML, CSS, JavaSript
+       -HTML, CSS, javaScript
        -Search items in real time
        -Used JavaScript `filter()` method
        -Responsive Design
 ## Screenshot
 ![Live Search Filter](live-search-filter/live-search-filter.png)
-   Technologies Used: -HTML
-                   -CSS
-                   -JavaScript
-Author: Khushi 
+
+Task 9 -Random Joke Generator
+       -Generates random jokes using JavaSript
+       -Fetches jokes from an API
+       -Displays a new joke on button click
+       -Simple and Responsive UI
+       -HTML, CSS ,JavaScript
+## Screenshot
+![Random joke generator](random-joke-generator/joke-generator.png)
+
+**Technologies Used:** 
+ -HTML
+ -CSS
+ -JavaScript
+**Author:** Khushi 
