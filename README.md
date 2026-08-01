@@ -64,6 +64,14 @@ Task 9 -Random Joke Generator
 ## Screenshot
 ![Random joke generator](random-joke-generator/joke-generator.png)
 
+Task 10 -Quote Generator
+        -Generates random inspirational quotes
+        -Displays a new quote with a single button click
+        -Build using HTML, CSS, JavaScript
+        -Clean and Responsive UI
+## Screenshot
+![Quote Generator](Quote-Generator/quote-generator.png)
+
 **Technologies Used:** 
  -HTML
  -CSS
