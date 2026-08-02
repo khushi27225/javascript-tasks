@@ -72,8 +72,31 @@ Task 10 -Quote Generator
 ## Screenshot
 ![Quote Generator](Quote-Generator/quote-generator.png)
 
+Task 11 -Weather App
+        -Displays real-time weather information
+        -Search weather by city name
+        -Uses openWeather API
+        -Responsive Design
+        -Built with HTML, CSS ,JavaScript
+## Screenshot 
+![Weather App](Weather-App/weather.png)
+## Technologies USed
+-HTML
+-CSS
+-JavaScript
+-OpenWeather API
+### Setup Instructions
+1. Get your free API key from https://openweathermap.org/api
+2. Open `weather.js` .
+3. Replace:
+```javascript
+const apikey ="YOUR_API_KEY";
+```
+4. Save the file and run the project.
+
 **Technologies Used:** 
  -HTML
  -CSS
  -JavaScript
+ 
 **Author:** Khushi 
