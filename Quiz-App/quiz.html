@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-App</title>
+    <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+    <div class="container">
+    <h1>JavaScript Quiz</h1>
+    <p id="question">Q1. Which keyword declares a Variable?</p>
+    <div class="option">
+    <input type="radio" id="var" name="options" value="Var">
+    <label for="var" id="option1">Var</label>
+    </div>
+    <div class="option">
+    <input type="radio" id="let" name="options" value="Let">
+    <label for="let" id="option2">Let</label>
+    </div>
+    <div class="option">
+    <input type="radio" id="const" name="options" value="Const">
+    <label for="const" id="option3">Const</label>
+    </div>
+    <div class="option">
+    <input type="radio" id="all" name="options" value="All of the above">
+    <label for="all" id="option4">All of the above</label>
+    </div>
+    <button id="submitBtn">Submit</button>
+    <button id="nextBtn">Next</button>
+    <p id="score">Score: 0</p>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>
