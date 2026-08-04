@@ -94,6 +94,16 @@ const apikey ="YOUR_API_KEY";
 ```
 4. Save the file and run the project.
 
+Task-12 -Quiz App
+        -Interactive Quiz Applications
+        -Multiple-choice questions
+        -Instant score calculation
+        -Next question functionality
+        -Responsive Design
+        -Built with HTML,CSS & JavaScript
+## Screenshot
+![Quiz App](Quiz-App/quiz.png)
+
 **Technologies Used:** 
  -HTML
  -CSS
