@@ -104,6 +104,18 @@ Task-12 -Quiz App
 ## Screenshot
 ![Quiz App](Quiz-App/quiz.png)
 
+Task-13 -Dictionary App
+        -Search the meaning of the English words
+        -Displays word definition, pronunciation, apart of speech and example.
+        -Uses Dictionary API
+        -Clean and Responsive UI
+        -Built with HTML, CSS and JavaScript
+## Screenshot 
+![Dictionary App](Dictionary-App/Dictionary.png)
+
+### Setup Instructions
+This project uses the **Free Dictionary API** , So no API key is required. Simply open the project in your browser and start searching for words.
+
 **Technologies Used:** 
  -HTML
  -CSS
