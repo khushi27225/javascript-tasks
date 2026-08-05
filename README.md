@@ -111,7 +111,7 @@ Task-13 -Dictionary App
         -Clean and Responsive UI
         -Built with HTML, CSS and JavaScript
 ## Screenshot 
-![Dictionary App](Dictionary-App/Dictionary.png)
+![Dictionary App](Dictionary-App/Dictionary-app.png)
 
 ### Setup Instructions
 This project uses the **Free Dictionary API** , So no API key is required. Simply open the project in your browser and start searching for words.
