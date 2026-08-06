@@ -125,6 +125,14 @@ Task-14 -Movie Search App
 ## Screenshot
 ![Movie Search App](Movie-Search-App/movie.png)
 > **NOTE** Project uses a Movie API to run it locally, replace 'YOUR_API_KEY' in the JavaScript file with your own API key.
+### Setup Instruction
+1. Clone this repository.
+2. Open the project folder.
+3. Get your free API key from the respective API provider.
+4. Open the JavaScript file.
+5. Replace: YOUR_API_KEY with your own API Key
+6. Save the file.
+7. open `index.html` in your browser.
 
 **Technologies Used:** 
  -HTML
