@@ -17,7 +17,7 @@ searchBtn.addEventListener("click", function(){
         alert("Please enter a movie name!");
         return;
     }
-    let url = `https://www.omdbapi.com/?apikey=7520542&t=${movieInput.value.trim()}`
+    let url = `https://www.omdbapi.com/?apikey="YOUR_API_KEY"&t=${movieInput.value.trim()}`
     fetch(url)
     .then(function(response){
         return response.json();
