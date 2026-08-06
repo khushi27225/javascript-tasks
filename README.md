@@ -48,7 +48,7 @@ Task 7 -Pizza Order System
 ![Pizza Order System](pizza-order-system/pizza.png)
 
 Task 8 -Live Search Filter
-       -HTML, CSS, javaScript
+       -HTML, CSS, JavaScript
        -Search items in real time
        -Used JavaScript `filter()` method
        -Responsive Design
@@ -56,7 +56,7 @@ Task 8 -Live Search Filter
 ![Live Search Filter](live-search-filter/live-search-filter.png)
 
 Task 9 -Random Joke Generator
-       -Generates random jokes using JavaSript
+       -Generates random jokes using JavaScript
        -Fetches jokes from an API
        -Displays a new joke on button click
        -Simple and Responsive UI
@@ -115,6 +115,16 @@ Task-13 -Dictionary App
 
 ### Setup Instructions
 This project uses the **Free Dictionary API** , So no API key is required. Simply open the project in your browser and start searching for words.
+
+Task-14 -Movie Search App
+        -Search movies by title
+        -HTML,CSS & JavaScript
+        -Uses movie API to fetch movie details
+        -Displays movie poster, title, release year and rating
+        -Responsive Design
+## Screenshot
+![Movie Search App](Movie-Search-App/movie.png)
+> **NOTE** Project uses a Movie API to run it locally, replace 'YOUR_API_KEY' in the JavaScript file with your own API key.
 
 **Technologies Used:** 
  -HTML
