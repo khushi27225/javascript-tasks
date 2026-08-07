@@ -130,7 +130,7 @@ Task-14 -Movie Search App
 2. Open the project folder.
 3. Get your free API key from the respective API provider.
 4. Open the JavaScript file.
-5. Replace: YOUR_API_KEY with your own API Key
+5. Replace: "YOUR_API_KEY" with "YOUR_API_KEY";
 6. Save the file.
 7. open `index.html` in your browser.
 
