@@ -134,6 +134,25 @@ Task-14 -Movie Search App
 6. Save the file.
 7. open `index.html` in your browser.
 
+Task-15 -Music Player App
+        -Search for songs by title or artist
+        -Displays song information
+        -Music player interface
+        -HTML, CSS & JavaScript
+        -Responsive Design
+## Screenshot
+![Music Player App](Music-Player-App/music.png)
+### Setup Instructions
+This project is a front-end music player application. Sample music data and media assets are not included in the repository.
+To use the app with your own data:
+1. Add the required song data in the JavaScript file.
+2. Add the song name and artist name.
+3. Add the cover image for each song.
+4. add the corresponding audio file.
+5. Update the file paths in the JavaScript/data section.
+6. Open `index.html` in your browser.
+
+
 **Technologies Used:** 
  -HTML
  -CSS
