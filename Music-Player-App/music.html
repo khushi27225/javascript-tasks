@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player App</title>
+    <link rel="stylesheet" href="music.css">
+</head>
+<body>
+    <div class="container">
+    <h1>Music Player</h1>
+    <div class="songInfo">
+        <img id="songCover" src="">
+        <h2 id="songName">Song Name</h2>
+        <p id="artistName">Artist Name</p>
+    </div>
+    <div class="progressSection">
+        <span id="CurrentTime">Current Time</span>
+        <input type="range" id="progressRange" min="0" max="100" value="0">
+        <span id="totalTime">Total Time</span>
+    </div>
+    <div class="controls">
+        <button id="previousBtn">⏮</button>
+        <button id="switchBtn">▶</button>
+        <button id="nextBtn">⏭</button>
+    </div>
+    <div class="volumeSection">
+        <span id="volume">🔊</span>
+        <input type="range" id="volumeRange">
+    </div>
+    <audio id="audio"></audio>
+    </div>
+    <script src="music.js"></script>
+</body>
+</html>

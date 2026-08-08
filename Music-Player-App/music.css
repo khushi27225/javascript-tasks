@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #0F0C1B;
+}
+.container{
+    border: 2px solid #4FACFE;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 90%;
+    max-width: 500px; 
+    text-align: center;
+    background-color: #E0E6ED;
+    color: #6C7A89;
+    box-shadow: 0px 0px 15px #4FACFE;
+}
+h1{
+    font-size: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.songInfo{
+    margin-top: 10px;
+}
+#songCover{
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 20px #4FACFE;
+}
+#songName{
+    font-size: 35px;
+    margin-top: 10px;
+}
+#songName:hover{
+    color: #0F0C1B;
+    transform: translateY(-2px);
+    transition: 0.3s;
+}
+#artistName{
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#artistName:hover{
+    color: #0F0C1B;
+    transform: translateY(-2px);
+    transition: 0.3s;
+}
+.controls{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+button{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    transition: 0.3s;
+    font-size: 24px;
+    background-color: #0F0C1B;
+    color: #fff;
+    border: none;
+}
+button:hover{
+    transform: scale(1.05) translateY(-2px);
+    box-shadow: 0px 0px 10px #4FACFE;
+}
+#switchBtn{
+    background-color: #6C7A89;
+    color: #000;
+}
+#switchBtn:hover{
+    background-color: #4FACFE;
+}
+.volumeSection{
+    margin-bottom: 15px;
+}
+input[type="range"]{
+    width: 100%;
+    max-width: 200px;
+    accent-color: #0F0C1B;
+}
+input[type="range"]::-webkit-slider-thumb{
+    cursor: pointer;
+}
+.progressSection{
+    color: #0F0C1B;
+}
