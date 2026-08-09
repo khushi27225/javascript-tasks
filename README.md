@@ -1,19 +1,19 @@
 JavaScript Tasks : This repository contains my javaScript practice tasks.
 ## TASKS ##
-Task 1 - JavaScript Basics 
+## Task 1 - JavaScript Basics 
         -Variables
         -Functions
         -Event Handling
-Task 2 - Notes App
+## Task 2 - Notes App
         -Creates notes
         -HTML,CSS & javaScript
-Task 3 - Shopping List App
+## Task 3 - Shopping List App
          -Add Items
          -Simple DOM Manipulation
          -Event Handling
   ## Screenshot 
   ![Shopping List](shopping-list-app/shopping-list-app.png)
-Task 4 - Student Marks Calculator
+## Task 4 - Student Marks Calculator
         -Enter marks of subjects
         -Calculate Total Marks
         -Calculate Percentage
@@ -22,7 +22,7 @@ Task 4 - Student Marks Calculator
  ## Screenshot
   ![Student Marks Calculator](student-marks-calculator/student-marks-calculator.png)
 
-Task 5 -Student Registration Form
+## Task 5 -Student Registration Form
        -User Registration Form
        -Delete , edit and update button
        -Form validation
@@ -30,14 +30,14 @@ Task 5 -Student Registration Form
  ## Screenshot
  ![Student Registration Form](Student-Registration-form/student-registration-form.png)
 
- Task 6 -Employee Registration System
+ ## Task 6 -Employee Registration System
         -Employee Registration Form
         -HTML,CSS & JavaScript
         -Collects employees details
         -Responsive Design
 ## Screenshot
 ![Employee Registration Form](OneDrive/Desktop/js/Employee-Registration-system/employee-registration-form.png)
-Task 7 -Pizza Order System
+## Task 7 -Pizza Order System
        -Pizza Order Form
        -HTML,CSS & JavaScript 
        -Add pizza orders
@@ -47,7 +47,7 @@ Task 7 -Pizza Order System
 ## Screenshot 
 ![Pizza Order System](pizza-order-system/pizza.png)
 
-Task 8 -Live Search Filter
+## Task 8 -Live Search Filter
        -HTML, CSS, JavaScript
        -Search items in real time
        -Used JavaScript `filter()` method
@@ -55,7 +55,7 @@ Task 8 -Live Search Filter
 ## Screenshot
 ![Live Search Filter](live-search-filter/live-search-filter.png)
 
-Task 9 -Random Joke Generator
+## Task 9 -Random Joke Generator
        -Generates random jokes using JavaScript
        -Fetches jokes from an API
        -Displays a new joke on button click
@@ -64,7 +64,7 @@ Task 9 -Random Joke Generator
 ## Screenshot
 ![Random joke generator](random-joke-generator/joke-generator.png)
 
-Task 10 -Quote Generator
+## Task 10 -Quote Generator
         -Generates random inspirational quotes
         -Displays a new quote with a single button click
         -Build using HTML, CSS, JavaScript
@@ -72,7 +72,7 @@ Task 10 -Quote Generator
 ## Screenshot
 ![Quote Generator](Quote-Generator/quote-generator.png)
 
-Task 11 -Weather App
+## Task 11 -Weather App
         -Displays real-time weather information
         -Search weather by city name
         -Uses openWeather API
@@ -94,7 +94,7 @@ const apikey ="YOUR_API_KEY";
 ```
 4. Save the file and run the project.
 
-Task-12 -Quiz App
+## Task-12 -Quiz App
         -Interactive Quiz Applications
         -Multiple-choice questions
         -Instant score calculation
@@ -104,7 +104,7 @@ Task-12 -Quiz App
 ## Screenshot
 ![Quiz App](Quiz-App/quiz.png)
 
-Task-13 -Dictionary App
+## Task-13 -Dictionary App
         -Search the meaning of the English words
         -Displays word definition, pronunciation, apart of speech and example.
         -Uses Dictionary API
@@ -134,7 +134,7 @@ Task-14 -Movie Search App
 6. Save the file.
 7. open `index.html` in your browser.
 
-Task-15 -Music Player App
+## Task-15 -Music Player App
         -Search for songs by title or artist
         -Displays song information
         -Music player interface
@@ -158,6 +158,17 @@ Each song should contain:
 -Cover Image
 -Audio File
 > **Note:** Add only audio, images, and other media that you have permission to use. Do not upload copyrighted songs to a public repository without permission.
+
+## Task-16 -Expense Tracker App
+           -Add and track daily expenses
+           -Enter expenses name and amount
+           -Displays expenses records
+           -Calculate total expenses
+           -Delete expenses
+           -Simple and responsive interface
+           -Built with HTML, CSS & JavaScript
+## Screenshot
+![Expense Tracker App](Expense-Tracker-App/Expense.png)
 
 **Technologies Used:** 
  -HTML
