@@ -151,7 +151,13 @@ To use the app with your own data:
 4. add the corresponding audio file.
 5. Update the file paths in the JavaScript/data section.
 6. Open `index.html` in your browser.
-
+### Required Data
+Each song should contain:
+-Song Name
+-Artist Name
+-Cover Image
+-Audio File
+> **Note:** Add only audio, images, and other media that you have permission to use. Do not upload copyrighted songs to a public repository without permission.
 
 **Technologies Used:** 
  -HTML
