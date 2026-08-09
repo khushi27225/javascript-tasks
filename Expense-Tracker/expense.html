@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense-Tracker</title>
+    <link rel="stylesheet" href="expense.css">
+</head>
+<body>
+    <div class="container">
+    <h1>Expense Tracker</h1>
+    <input type="text" id="expenseInput" placeholder="Expense Name">
+    <input type="number" id="amountInput" placeholder="Amount">
+    <select name="expenses" id="expenses">
+        <option value="Food">Food</option>
+        <option value="Travel">Travel</option>
+        <option value="Shopping">Shopping</option>
+        <option value="Bills">Bills</option>
+        <option value="Other">Other</option>
+    </select>
+    <button id="addBtn">Add Expense</button>
+    <div id="expenseList"></div>
+    <p id="totalExpense">Total Expense:</p>
+    </div>
+    <script src="expense.js"></script>
+</body>
+</html>
