@@ -168,7 +168,7 @@ Each song should contain:
            -Simple and responsive interface
            -Built with HTML, CSS & JavaScript
 ## Screenshot
-![Expense Tracker App](Expense-Tracker-App/Expense.png)
+![Expense Tracker App](Expense-Tracker/Expense.png)
 
 **Technologies Used:** 
  -HTML
