@@ -170,6 +170,16 @@ Each song should contain:
 ## Screenshot
 ![Expense Tracker App](Expense-Tracker/Expense.png)
 
+## Task-17 -Recipe Finder App
+           -Search recipe by name
+           -Displays recipe details
+           -Shows ingredients and cooking instructions
+           -Uses JavaScript to fetch and displays recipe data
+           -Responsive Designs
+           -Built with HTML, CSS and JavaScript
+## Screenshot
+![Recipe Finder App](Recipe-finder-app/recipe.png)
+
 **Technologies Used:** 
  -HTML
  -CSS
