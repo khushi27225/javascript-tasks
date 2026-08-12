@@ -180,6 +180,17 @@ Each song should contain:
 ## Screenshot
 ![Recipe Finder App](Recipe-finder-app/recipe.png)
 
+## Task-18 -GitHub User Finder
+           -Search GitHub users by username
+           -Displays GitHub profile information
+           -Shows profile picture, username and bio
+           -Displays followers, followings and public repositories
+           -Provides a link to the user's GitHub profile
+           -Responsive Design
+           -Built with HTML, CSS and JavaScript
+## Screenshot
+![GitHub User Finder](GitHub-User-Find/git.png)
+
 **Technologies Used:** 
  -HTML
  -CSS
