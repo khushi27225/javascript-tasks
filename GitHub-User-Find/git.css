@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    min-height: 100vh;
+    background-color: #0d1117;
+}
+.container{
+    border: 2px solid #30363d;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+    width: 90%;
+    max-width: 800px;
+    background-color: #161b22;
+    color: #e6edf3;
+    box-shadow: 0px 8px 24px rgba(1,4,9,0.8);
+    box-sizing: border-box;
+}
+h1{
+    margin-top: 10px;
+    font-size: 4em;
+    margin-bottom: 20px;
+}
+input{
+    height: 40px;
+    width: 350px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 1em;
+    margin-right: 10px;
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+    color: #e6edf3;
+}
+#searchBtn{
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1em;
+    transition: 0.3s;
+    background-color: #2f81f7;
+}
+button:hover{
+    transform: scale(1.05) translateY(-2px);
+}
+p{
+    margin-top: 10px;
+    font-size: 25px;
+}
+#gitHubInfo{
+    border: 2px solid #30363d;
+    min-height: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 15px #161b22;
+    background-color: #21262d;
+    color: #e6edf3;
+}
+.profileCard{
+    border: 2px solid #30363d;
+    border-radius: 10px;
+    background-color: #21262d;
+    color: #e6edf3;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.profileCard a{
+    color: #2f81f7;
+}
