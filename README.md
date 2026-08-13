@@ -11,8 +11,6 @@ JavaScript Tasks : This repository contains my javaScript practice tasks.
          -Add Items
          -Simple DOM Manipulation
          -Event Handling
-  ## Screenshot 
-  ![Shopping List](shopping-list-app/shopping-list-app.png)
 ## Task 4 - Student Marks Calculator
         -Enter marks of subjects
         -Calculate Total Marks
