@@ -191,6 +191,16 @@ Each song should contain:
 ## Screenshot
 ![GitHub User Finder](GitHub-User-Find/git.png)
 
+## Task-19 -Product Explorer
+        -Explore and browse different products
+        -Search products by name
+        -Displays product image, title, price and other details
+        -Dynamic product rendering using JavaScript
+        -Responsive and user friendly interface
+        -Built with HTML, CSS, JavaScript
+## Screenshot
+![Product-Explorer](Product-Explorer/product.png)
+          
 **Technologies Used:** 
  -HTML
  -CSS
