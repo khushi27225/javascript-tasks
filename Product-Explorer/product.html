@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product-Explorer</title>
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Product Explorer</h1>
+        <input type="text" id="searchInput" placeholder="Search products...">
+        <button id="searchBtn">Search</button>
+        <br>
+        <div class="dropdown">
+        <label for="category">Category:</label>
+        <select id="category" name="category">
+            <option value="all" selected>All</option>
+            <option value="beauty">Beauty</option>
+            <option value="fragrances">Fragrances</option>
+            <option value="furniture">Furniture</option>
+        </select>
+        <label for="sort">Sort:</label>
+        <select id="sort" name="sort">
+            <option value="default" selected>Sort By</option>
+            <option value="price-low">Price:low to High</option>
+            <option value="price-high">Price:High to Low</option>
+            <option value="rating">Rating</option>
+        </select>
+        </div>
+        <p id="loading"></p>
+        <p id="error"></p>
+        <div id="productArea"></div>
+        <div id="cart">
+        <p id="cartCount">Cart count:</p>
+    </div>
+    </div>
+    <script src="product.js"></script>
+</body>
+</html>
