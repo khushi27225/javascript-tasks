@@ -208,7 +208,8 @@ Each song should contain:
 ## Screenshot
 ![Kanban Task Board](Kanban-Task-Board/kanban-task.png)
 **Concepts Used:** -DOM Manipulation -drag & Drop API -Local Storage -Event Handling -Array Methods
-##Task 21 -Typing Speed Test
+
+## Task 21 -Typing Speed Test
 -HTML, CSS, JavaScript
 -Test typing speed and accuracy
 -Displays WPM(Words per minute)
