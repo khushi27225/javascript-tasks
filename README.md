@@ -221,6 +221,64 @@ Each song should contain:
 ![Typing Speed Test](Typing-Speed-Test/typing.png)
 **Concepts Used:** -DOM manipulation -Event Handling -Timers -String Manipulation -Conditional Logic
 
+## Task 22 — Expense Tracker
+
+### 📌 About
+
+     A simple **Expense Tracker** built using HTML, CSS, and JavaScript.  
+     This project allows users to add, search, sort, and delete expenses while keeping the data saved using LocalStorage.
+
+### ✨ Features
+
+     - Add expenses with:
+       - Expense Name
+       - Amount
+       - Category
+       - Date
+       - Delete expenses
+       - Calculate **Total Expense**
+       - Find **Highest Expense**
+       - Search expenses by name
+      - Sort expenses by:
+      - High Amount → Low Amount
+      - Low Amount → High Amount
+      - Oldest Date → Newest Date
+      - Store expense data using **LocalStorage**
+      - Show an empty message when no expenses are available
+      - Dynamically update the expense list
+
+### 🧠 JavaScript Concepts Used
+
+     - DOM Manipulation
+     - Event Listeners
+     - Event Delegation
+     - Objects
+     - Arrays
+     - Functions
+     - `push()`
+     - `findIndex()`
+     - `splice()`
+     - `reduce()`
+     - `filter()`
+     - `includes()`
+     - `sort()`
+     - `dataset`
+     - LocalStorage
+     - JSON `parse()` & `stringify()`
+     - Dynamic Element Creation
+     - Number Conversion
+     - Date Sorting
+
+### 🛠️ Technologies
+
+    - HTML5
+    - CSS3
+    - JavaScript
+
+### 📸 Preview
+
+![Expense Analytics Dashboard](Expense-Analytics-Dashboard/expense.png)
+
 **Technologies Used:** 
  -HTML
  -CSS
