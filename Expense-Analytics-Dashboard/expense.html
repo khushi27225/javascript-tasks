@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense-Analytics-Dashboard</title>
+    <link rel="stylesheet" href="expense.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Expense-Dashboard</h1>
+        <div id="form">
+            <input type="text" id="expenseInput" placeholder="Enter expense name">
+            <br>
+            <input type="number" id="amount" placeholder="Enter amount">
+            <div id="label">
+            <label for="category">Category:</label>
+                <select id="category" name="category">
+                    <option value="housing">Housing</option>
+                    <option value="utilities">Utilities</option>
+                    <option value="groceries">Groceries</option>
+                    <option value="healthcare">Healthcare</option>
+                </select>
+                <label for="expenseDate">Date of Expense:</label>
+                <input type="date" id="expenseDate" name="expenseDate">
+            </div>
+                <button id="addBtn">Add</button>
+        </div>
+        <div id="summary">
+        <p id="totalExpense">Total Expense:</p>
+        <p id="highestExpense">Highest Expense:</p>
+        </div>
+        <div id="sorting">
+            <input type="text" id="searchExpense" placeholder="Expense name">
+            <button id="searchBtn">Search</button>
+            <label for="sort">Sort By:</label>
+            <select id="sort" name="sort">
+                <option value="default">Default</option>
+                <option value="date">Oldest-Newest</option>
+                <option value="highAmount">High-Amount</option>
+                <option value="lowAmount">Low-Amount</option>
+            </select>
+        </div>
+        <div id="expenseList"></div>
+        <p id="emptyMessage"></p>
+    </div>
+    <script src="expense.js"></script>
+</body>
+</html>
