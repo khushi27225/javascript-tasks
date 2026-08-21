@@ -275,8 +275,7 @@ Each song should contain:
     - CSS3
     - JavaScript
 
-### 📸 Preview
-
+### 📸 Screenshot
 ![Expense Analytics Dashboard](Expense-Analytics-Dashboard/expense.png)
 
 **Technologies Used:** 
