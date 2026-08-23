@@ -278,9 +278,62 @@ Each song should contain:
 ### 📸 Screenshot
 ![Expense Analytics Dashboard](Expense-Analytics-Dashboard/expense.png)
 
-**Technologies Used:** 
- -HTML
- -CSS
- -JavaScript
- 
+## Task 22 - Movie Watch List Manager
+
+    A simple and interactive Movie Watch List Manager built with HTML, CSS, and JavaScript. This project allows users to create and manage a personal list of movies they want to watch. Users can add movies, mark them as watched, and remove them from the list.
+
+### Features
+
+    - Add movies to the watch list
+    - Display all added movies dynamically
+    - Mark movies as watched
+    - Remove movies from the watch list
+    - Track the current status of each movie
+    - Store movie data using Local Storage
+    - Watch list remains saved after refreshing the page
+    - Dynamic UI updates without reloading the page
+    - Responsive and user-friendly design
+
+### Screenshot
+
+![Movie Watch List Manager](Movie-Watchlist-Manager/movie.png)
+
+### Technologies Used
+
+    - HTML
+    - CSS
+    - JavaScript
+    - Local Storage API
+
+### Concepts Practiced
+
+    - DOM Manipulation
+    - Event Listeners
+    - Local Storage
+    - JSON
+    - Array Methods
+    - Objects
+    - Dynamic HTML Rendering
+    - Conditional Logic
+    - Form/Input Handling
+    - Updating and Removing DOM Elements
+
+### How It Works
+
+    1. Enter the movie name in the input field.
+    2. Add the movie to the watch list.
+    3. The movie is displayed dynamically on the page.
+    4. Mark a movie as watched when you finish watching it.
+    5. Remove movies that you no longer want in the list.
+    6. Movie data is stored in Local Storage, so the list remains available even after refreshing the page.
+
+### Local Storage
+
+    The project uses the browser's **Local Storage** to save the watch list.
+
+    This means the movie data is stored in the browser and is loaded again when the page is refreshed, so the user does not lose their watch list.
+
+### Responsive Design
+
+    The interface is designed to work across different screen sizes, providing a simple and user-friendly experience on both desktop and smaller screens.
 **Author:** Khushi 
