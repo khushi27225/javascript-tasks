@@ -298,7 +298,8 @@ Each song should contain:
     - Watch list remains saved after refreshing the page
     - Dynamic UI updates without reloading the page
     - Responsive and user-friendly design
-
+### 🔗 Live Demo
+[View Movie WatchList Manager](https://movie-watchlist-manager-swart.vercel.app/)
 ### Screenshot
 
 ![Movie Watch List Manager](Movie-WatchList-Manager/movie.png)
