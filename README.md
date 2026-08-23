@@ -186,6 +186,8 @@ Each song should contain:
            -Provides a link to the user's GitHub profile
            -Responsive Design
            -Built with HTML, CSS and JavaScript
+### 🔗 Live Demo
+[View GitHub User Finder](https://github-finder-theta-sable.vercel.app/)
 ## Screenshot
 ![GitHub User Finder](GitHub-User-Find/git.png)
 
