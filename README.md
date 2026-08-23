@@ -76,6 +76,8 @@ JavaScript Tasks : This repository contains my javaScript practice tasks.
         -Uses openWeather API
         -Responsive Design
         -Built with HTML, CSS ,JavaScript
+### 🔗 Live Demo
+[View Weather App](https://weather-app-lime-two-63.vercel.app/)
 ## Screenshot 
 ![Weather App](Weather-App/weather.png)
 ## Technologies USed
