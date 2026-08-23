@@ -205,6 +205,8 @@ Each song should contain:
            -Tasks are stored in Local Storage
            -Dynamic task rendering
            -Responsive Design
+### 🔗 Live Demo
+[View Kanban Task Board](https://kanban-task-board-ashen.vercel.app/)
 ## Screenshot
 ![Kanban Task Board](Kanban-Task-Board/kanban-task.png)
 **Concepts Used:** -DOM Manipulation -drag & Drop API -Local Storage -Event Handling -Array Methods
