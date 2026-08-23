@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie-Watchlist-Manager</title>
+    <link rel="stylesheet" href="movie.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Watchlist</h1>
+        <div class="movieForm">
+            <div class="seperator">
+            <input type="text" id="movieTitle" placeholder="Movie title">
+            <label for="movieGenre">Genre:</label>
+            <select id="movieGenre">
+                <option value="all" selected>All</option>
+                <option value="action">Action</option>
+                <option value="comedy">Comedy</option>
+                <option value="horror">Horror</option>
+            </select>
+            </div>
+            <div class="seperator1">
+            <input type="number" id="movieRating" placeholder="Rating">
+            <label for="movieStatus" >Status:</label>
+            <select name="movieStatus" id="movieStatus">
+               <option value="watched" selected>Watched</option>
+               <option value="watching">Watching</option>
+               <option value="want">Want to Watch</option>
+            </select>
+            </div>
+            <button id="addBtn">Add</button>
+        </div>
+        <div class="statistics">
+            <p id="totalMovies">Total Movies:</p>
+            <p id="watched">Watched:</p>
+            <p id="averageRating">Average Rating:</p>
+        </div>
+        <div class="search">
+            <input type="text" id="searchInput" placeholder="Search movie...">
+            <label for="genreFilter">Genre:</label>
+            <select id="genreFilter">
+                <option value="all" selected>All</option>
+                <option value="action">Action</option>
+                <option value="comedy">Comedy</option>
+                <option value="horror">Horror</option>
+            </select>
+            <label for="statusFilter">Status:</label>
+            <select id="statusFilter">
+                <option value="all" selected>All</option>
+                <option value="watched">Watched</option>
+                <option value="watching">Watching</option>
+                <option value="want">Want to Watch</option>
+            </select>
+            <br>
+            <button id="searchBtn">Search</button>
+        </div>
+        <div id="movieList">
+        <p id="emptyMessage"></p>
+        </div>
+    </div>
+    <script src="movie.js"></script>
+</body>
+</html>
