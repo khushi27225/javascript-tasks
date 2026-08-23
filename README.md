@@ -296,7 +296,7 @@ Each song should contain:
 
 ### Screenshot
 
-![Movie Watch List Manager](Movie-Watchlist-Manager/movie.png)
+![Movie Watch List Manager](Movie-WatchList-Manager/movie.png)
 
 ### Technologies Used
 
