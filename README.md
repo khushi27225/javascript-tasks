@@ -277,6 +277,9 @@ Each song should contain:
     - CSS3
     - JavaScript
 
+### 🔗 Live Demo
+[View Expense Analytics Dashboard](https://expense-analytics-dashboard-blue.vercel.app/)
+
 ### 📸 Screenshot
 ![Expense Analytics Dashboard](Expense-Analytics-Dashboard/expense.png)
 
